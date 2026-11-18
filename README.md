@@ -5,7 +5,7 @@ Project : Network Programming Midterm Project
 Student Email: t.edafe9089@student.nu.edu  
 Programming Language: Python  
 Operating System: Windows  
-Version Control: Git and GitHub is the course.Version Control: Git and GitHub is the course.
+Version Control: Git and GitHub.
 
 ---
 
